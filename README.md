@@ -2,7 +2,7 @@
 <h3 align="center">A Biology student turned self-taught Developer — starting from zero, building every day</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BCA+Student+%40+VSCMS+Kanpur;Learning+Python+%E2%86%92+DSA+%E2%86%92+Ethical+Hacking+cybersecurity;From+PCB+to+Code+%F0%9F%A7%AC%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BCA+Student+%40+VSCMS+Kanpur;Learning+Python+%E2%86%92+DSA+%E2%86%92+Ethical+Hacking;From+PCB+to+Code+%F0%9F%A7%AC%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
