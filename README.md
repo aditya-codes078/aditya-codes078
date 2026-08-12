@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 PCB (Biology) graduate → now pursuing **BCA at VSCMS Kanpur** (2026–2029)
-- 🌱 Currently mastering **C Programming** — completed all **76/76 programs** from the CodeWithHarry playlist, independently
+- 🌱 Currently mastering **C Programming** —  🐍 Self-taught in **C Programming** — built a strong foundation from scratch, no shortcuts'
 - 📜 Completed **Advance Diploma in Computer Application (ADCA-PW)** — Advanced Tally Prime, Python, C, HTML/Web Design, Photoshop, CorelDRAW, and basic Japanese
 - 🔭 Next up: **Python (Intermediate) → DSA → Ethical Hacking**
 - 🤖 Building a personal **AI Voice Assistant** (Python + Gemini API + edge-tts)
