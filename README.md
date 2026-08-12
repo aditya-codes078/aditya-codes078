@@ -69,15 +69,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="stats animation"/>
+  <img width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding vibe animation"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-codes078&show_icons=true&theme=graywhite&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-codes078&layout=compact&theme=graywhite&hide_border=false" />
+  <img src="https://img.shields.io/badge/📈_Active_Contributor-Growing_Every_Day-4ECDC4?style=for-the-badge" />
 </p>
-
-<p align="center"><i>(Stats load from a free community service — if they don't appear right away, just refresh the page after a bit)</i></p>
 
 ---
 
@@ -87,7 +84,7 @@
   <a href="https://github.com/aditya-codes078" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
+  <a href="https://instagram.com/aditya_tzzz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
