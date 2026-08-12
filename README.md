@@ -15,7 +15,7 @@
 - 🔭 Next up: **Python (Intermediate) → DSA → Ethical Hacking**
 - 🤖 Building a personal **AI Voice Assistant** (Python + Gemini API + edge-tts)
 - 📍 Based in Kanpur, India
-- 💬 Ask me about: C programming, Tally Prime, or my dev journey from a biology background
+- 💬 Ask me about: C programming, Tally Prime, or my devloper journey from a biology background
 
 ---
 
