@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=15&descColor=B084F9" />
 
 <table align="center">
@@ -53,8 +54,12 @@
 <tr>
 <td align="center">🇯🇵</td>
 <td><img src="https://img.shields.io/badge/Dream-Work_in_Japan_someday-00F7FF?style=flat-square&labelColor=0D1117" /></td>
+<td align="center">🌐</td>
+<td><img src="https://img.shields.io/badge/Also_Build-Professional_Websites-06D6A0?style=flat-square&labelColor=0D1117" /></td>
+</tr>
+<tr>
 <td align="center">🎯</td>
-<td><img src="https://img.shields.io/badge/Goal-Software_Engineer_•_Web_Dev_•_Coder-FF2E92?style=flat-square&labelColor=0D1117" /></td>
+<td colspan="3"><img src="https://img.shields.io/badge/Goal-Software_Engineer_•_Web_Developer_•_Coder-FF2E92?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 </table>
 
@@ -69,6 +74,7 @@
   <img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/HTML5-B084F9?style=for-the-badge&logo=html5&logoColor=0D1117&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/CSS3-B084F9?style=for-the-badge&logo=css3&logoColor=0D1117&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Tally_Prime-FF2E92?style=for-the-badge&logo=tally&logoColor=0D1117&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Photoshop-FF2E92?style=for-the-badge&logo=adobephotoshop&logoColor=0D1117&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/CorelDRAW-FF2E92?style=for-the-badge&logo=corel&logoColor=0D1117&labelColor=0D1117" />
@@ -78,6 +84,11 @@
 
 <h2 align="center">📂 Featured Projects</h2>
 
+<p align="center">
+  <a href="https://neon-lolly-74d807.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-Interactive_Web_Page_(HTML_%2B_JS)-06D6A0?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/aditya-codes078/c-programs">
     <img src="https://img.shields.io/badge/📁_c--programs-Self--solved_C_programs_built_from_scratch-00F7FF?style=for-the-badge&labelColor=0D1117" />
@@ -115,4 +126,5 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" />
 
-<p align="center"><i>✨ See you in the next commit ☕ ✨</i></p>
+<p align="center"><i>✨ See you in the next commit ☕ ✨</i></p>![Uploading generated-image.png…]()
+<img width="3136" height="1344" alt="generated-image" src="https://github.com/user-attachments/assets/d2f2b63f-9253-489b-8515-955ab4e94427" />
