@@ -21,8 +21,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-codes078/aditya-codes078/output/github-contribution-grid-snake-dark.svg">
@@ -71,28 +69,24 @@ whoami:
 
 <p align="center">
   <a href="https://github.com/aditya-codes078/c-programs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-codes078&repo=c-programs&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/📁_c--programs-Self--solved_C_programs_built_from_scratch-00F7FF?style=for-the-badge&labelColor=0D1117" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/aditya-codes078/python-programs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-codes078&repo=python-programs&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/🐍_python--programs-Python_programs_built_while_learning-B084F9?style=for-the-badge&labelColor=0D1117" />
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-codes078&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-codes078&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding vibe animation"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-codes078&theme=radical&hide_border=true&background=0D1117" />
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya-codes078&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://img.shields.io/badge/📈_Active_Contributor-Growing_Every_Day-4ECDC4?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🔥_Consistent_Learner-C_%26_Python-FF2E92?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
