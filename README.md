@@ -33,23 +33,34 @@
 
 <table align="center">
 <tr>
-<td>
-
-```yaml
-whoami:
-  background: "Ex-biology (PCB) student, now building software"
-  currently: "BCA @ VSCMS Kanpur (2026 – 2029)"
-  self_taught: ["C", "Python"]
-  certification: "Advance Diploma in Computer Application (ADCA-PW)"
-  roadmap: "Python (Intermediate) → DSA → Ethical Hacking"
-  building: "AI Voice Assistant — Python + Gemini API + edge-tts"
-  dream: "🇯🇵 Work in Japan someday"
-  goal: "Software Engineer • Web Developer • Coder"
-```
-
-</td>
+<td align="center">🧬</td>
+<td><img src="https://img.shields.io/badge/Background-Ex--Biology_(PCB)_Student-FF2E92?style=flat-square&labelColor=0D1117" /></td>
+<td align="center">🎓</td>
+<td><img src="https://img.shields.io/badge/Currently-BCA_%40_VSCMS_Kanpur-00F7FF?style=flat-square&labelColor=0D1117" /></td>
+</tr>
+<tr>
+<td align="center">🐍</td>
+<td><img src="https://img.shields.io/badge/Self--Taught-C_%26_Python-B084F9?style=flat-square&labelColor=0D1117" /></td>
+<td align="center">📜</td>
+<td><img src="https://img.shields.io/badge/Certified-ADCA--PW-FFD166?style=flat-square&labelColor=0D1117" /></td>
+</tr>
+<tr>
+<td align="center">🔭</td>
+<td><img src="https://img.shields.io/badge/Roadmap-Python%20→%20DSA%20→%20Ethical%20Hacking-06D6A0?style=flat-square&labelColor=0D1117" /></td>
+<td align="center">🤖</td>
+<td><img src="https://img.shields.io/badge/Building-AI_Voice_Assistant-FF6B6B?style=flat-square&labelColor=0D1117" /></td>
+</tr>
+<tr>
+<td align="center">🇯🇵</td>
+<td><img src="https://img.shields.io/badge/Dream-Work_in_Japan_someday-00F7FF?style=flat-square&labelColor=0D1117" /></td>
+<td align="center">🎯</td>
+<td><img src="https://img.shields.io/badge/Goal-Software_Engineer_•_Web_Dev_•_Coder-FF2E92?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 </table>
+
+<p align="center">
+💡 <i>I believe in learning by doing — build, break, fix, and get a little better with every commit.</i>
+</p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
