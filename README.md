@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=15&descColor=B084F9" />
 
 <table align="center">
@@ -85,7 +84,7 @@
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://neon-lolly-74d807.netlify.app">
+  <a href="https://aditya32u6v.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Live_Website-Interactive_Web_Page_(HTML_%2B_JS)-06D6A0?style=for-the-badge&labelColor=0D1117" />
   </a>
 </p>
@@ -126,5 +125,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" />
 
-<p align="center"><i>✨ See you in the next commit ☕ ✨</i></p>![Uploading generated-image.png…]()
-<img width="3136" height="1344" alt="generated-image" src="https://github.com/user-attachments/assets/d2f2b63f-9253-489b-8515-955ab4e94427" />
+<p align="center"><i>✨ See you in the next commit ☕ ✨</i></p>
