@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=15&descColor=B084F9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Ethical%20Hacker%20%7C%20Self-Taught%20Coder&descAlignY=58&descSize=15&descColor=B084F9" />
 
 <table align="center">
 <tr>
@@ -6,7 +6,7 @@
 <img src="https://github.com/aditya-codes078.png" width="130" style="border-radius:50%" alt="Aditya's avatar"/>
 </td>
 <td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=false&vCenter=true&width=550&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;Future+Web+Developer+%F0%9F%8C%90;Self-Taught+Coder+%E2%9A%A1;Cybersecurity+Enthusiast+%F0%9F%94%90;Dreaming+of+working+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=false&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Professional+%F0%9F%94%90;Future+Ethical+Hacker+%F0%9F%92%BB;Self-Taught+Coder+%E2%9A%A1;Learning+C+%26+Python+from+Scratch+%F0%9F%90%8D;Dreaming+of+working+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </td>
 </tr>
 </table>
@@ -22,11 +22,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-codes078/aditya-codes078/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya-codes078/aditya-codes078/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aditya-codes078/aditya-codes078/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=printf(%22Hello%2C+World!%5Cn%22)%3B;print(%22Hello%2C+World!%22);console.log(%22Hello%2C+World!%22)%3B;%F0%9F%91%8B+Welcome+to+my+profile!" alt="Hello World Typing SVG" />
 </p>
 
 <h2 align="center">⚡ About Me ⚡</h2>
@@ -58,7 +54,7 @@
 </tr>
 <tr>
 <td align="center">🎯</td>
-<td colspan="3"><img src="https://img.shields.io/badge/Goal-Software_Engineer_•_Web_Developer_•_Coder-FF2E92?style=flat-square&labelColor=0D1117" /></td>
+<td colspan="3"><img src="https://img.shields.io/badge/Goal-Cybersecurity_Professional_•_Ethical_Hacker-FF2E92?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 </table>
 
