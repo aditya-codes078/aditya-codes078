@@ -80,8 +80,26 @@
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
+  <a href="https://veloriaicecreamcafe.netlify.app">
+    <img src="https://img.shields.io/badge/🍨_Veloura_Ice_Cream_Café-Full--Stack_3D_Interactive_Configurator-FF2E92?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
+<p align="center">
+  <sub>Node.js + Express backend • SQLite/Turso DB • Admin dashboard • Cart, coupons, live order tracking, KOT printing & UPI payments</sub>
+</p>
+<p align="center">
+  <a href="https://veloriaicecreamcafe.netlify.app/admin.html">
+    <img src="https://img.shields.io/badge/⚙️_Admin_Dashboard-Order_%26_Stock_Management_Panel-B084F9?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://neon-lolly-74d807.netlify.app">
+    <img src="https://img.shields.io/badge/💌_Interactive_Web_Page-Fun_UI_%2F_UX_Experiment-FFD166?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
+<p align="center">
   <a href="https://aditya32u6v.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Website-Interactive_Web_Page_(HTML_%2B_JS)-06D6A0?style=for-the-badge&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Live_Website-06D6A0?style=for-the-badge&labelColor=0D1117" />
   </a>
 </p>
 <p align="center">
@@ -119,6 +137,6 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%9C&fontSize=22&fontColor=00F7FF&animation=fadeIn" />
 
 <p align="center"><i>✨ See you in the next commit ☕ ✨</i></p>
