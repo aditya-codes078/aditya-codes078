@@ -1,0 +1,14 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "profile-night-neon.svg",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(0,247,255)",
+    "weakColor": "#444444",
+    "radarColor": "rgb(255,46,146)",
+    "growingAnimation": true,
+    "saturation": "70%",
+    "duration": "8s"
+  }
+]
