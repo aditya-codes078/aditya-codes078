@@ -1,5 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Ethical%20Hacker%20%7C%20Self-Taught%20Coder&descAlignY=58&descSize=15&descColor=B084F9" />
-<img width="250" height="371" alt="imgi_42_250" src="https://github.com/user-attachments/assets/2ec5f406-435b-46ac-83fb-82922b495d19" />
+
+<p align="center">
+  <img width="260" style="border-radius:16px; border:2px solid #00F7FF; box-shadow:0 0 25px rgba(0,247,255,0.4);" alt="Aditya portrait" src="https://github.com/user-attachments/assets/2ec5f406-435b-46ac-83fb-82922b495d19" />
+</p>
 
 <table align="center">
 <tr>
