@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Ethical%20Hacker%20%7C%20Self-Taught%20Coder&descAlignY=58&descSize=15&descColor=B084F9" />
-
+<img width="250" height="371" alt="imgi_42_250" src="https://github.com/user-attachments/assets/a44215a5-55db-4068-8496-be6c0c6a9326" />
 <table align="center">
 <tr>
 <td width="150">
@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/🎓_BCA_Student-VSCMS_Kanpur-0D1117?style=for-the-badge&labelColor=0D1117&color=00F7FF" />
   <img src="https://img.shields.io/badge/📍_Kanpur,_India-0D1117?style=for-the-badge&labelColor=0D1117&color=B084F9" />
   <img src="https://img.shields.io/badge/🇯🇵_Dream:_Japan-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E92" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya-codes078&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
@@ -116,6 +120,16 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
+  <img width="700" src="./profile-3d-contrib/profile-night-neon.svg" alt="3D contribution graph"/>
+</p>
+
+<h2 align="center">🎯 Skill Radar</h2>
+
+<p align="center">
+  <img width="450" src="https://quickchart.io/chart?bkg=%230D1117&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22C%22%2C%20%22Python%22%2C%20%22HTML%2FCSS%22%2C%20%22Tally%20Prime%22%2C%20%22Git%2FGitHub%22%2C%20%22Photoshop%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Level%22%2C%20%22data%22%3A%20%5B75%2C%2065%2C%2060%2C%2080%2C%2055%2C%2060%5D%2C%20%22backgroundColor%22%3A%20%22rgba%280%2C247%2C255%2C0.25%29%22%2C%20%22borderColor%22%3A%20%22%2300F7FF%22%2C%20%22pointBackgroundColor%22%3A%20%22%23FF2E92%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22labels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%23444444%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D%7D" alt="skill radar chart"/>
+</p>
+
+<p align="center">
   <img width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding vibe animation"/>
 </p>
 
@@ -134,6 +148,12 @@
   </a>
   <a href="https://instagram.com/aditya_tzzz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF2E92?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=0D1117" />
+  </a>
+  <a href="https://aditya32u6v.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-B084F9?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" />
+  </a>
+  <a href="mailto:aditya32u6v@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FFD166?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" />
   </a>
 </p>
 
