@@ -1,19 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Professional%20%7C%20Ethical%20Hacker%20%7C%20Self-Taught%20Coder&descAlignY=58&descSize=15&descColor=B084F9" />
 
 <p align="center">
-  <img width="260" style="border-radius:16px; border:2px solid #00F7FF; box-shadow:0 0 25px rgba(0,247,255,0.4);" alt="Aditya portrait" src="https://github.com/user-attachments/assets/2ec5f406-435b-46ac-83fb-82922b495d19" />
+  <img width="260" alt="Aditya portrait" src="https://github.com/user-attachments/assets/2ec5f406-435b-46ac-83fb-82922b495d19" />
 </p>
 
-<table align="center">
-<tr>
-<td width="150">
-<img src="https://github.com/aditya-codes078.png" width="130" style="border-radius:50%" alt="Aditya's avatar"/>
-</td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=false&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Professional+%F0%9F%94%90;Future+Ethical+Hacker+%F0%9F%92%BB;Self-Taught+Coder+%E2%9A%A1;Learning+C+%26+Python+from+Scratch+%F0%9F%90%8D;Dreaming+of+working+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Code_•_Curiosity_•_Chaos-0D1117?style=for-the-badge&labelColor=0D1117&color=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/aditya-codes078.png" width="110" style="border-radius:50%" alt="Aditya's avatar"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=90%25&lines=Aspiring+Cybersecurity+Professional+%F0%9F%94%90;Future+Ethical+Hacker+%F0%9F%92%BB;Self-Taught+Coder+%E2%9A%A1;Learning+C+%26+Python+from+Scratch+%F0%9F%90%8D;Dreaming+of+working+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_BCA_Student-VSCMS_Kanpur-0D1117?style=for-the-badge&labelColor=0D1117&color=00F7FF" />
@@ -35,36 +36,17 @@
 
 <h2 align="center">⚡ About Me ⚡</h2>
 
-<table align="center">
-<tr>
-<td align="center">🧬</td>
-<td><img src="https://img.shields.io/badge/Background-Ex--Biology_(PCB)_Student-FF2E92?style=flat-square&labelColor=0D1117" /></td>
-<td align="center">🎓</td>
-<td><img src="https://img.shields.io/badge/Currently-BCA_%40_VSCMS_Kanpur-00F7FF?style=flat-square&labelColor=0D1117" /></td>
-</tr>
-<tr>
-<td align="center">🐍</td>
-<td><img src="https://img.shields.io/badge/Self--Taught-C_%26_Python-B084F9?style=flat-square&labelColor=0D1117" /></td>
-<td align="center">📜</td>
-<td><img src="https://img.shields.io/badge/Certified-ADCA--PW-FFD166?style=flat-square&labelColor=0D1117" /></td>
-</tr>
-<tr>
-<td align="center">🔭</td>
-<td><img src="https://img.shields.io/badge/Roadmap-Python%20→%20DSA%20→%20Ethical%20Hacking-06D6A0?style=flat-square&labelColor=0D1117" /></td>
-<td align="center">🤖</td>
-<td><img src="https://img.shields.io/badge/Building-AI_Voice_Assistant-FF6B6B?style=flat-square&labelColor=0D1117" /></td>
-</tr>
-<tr>
-<td align="center">🇯🇵</td>
-<td><img src="https://img.shields.io/badge/Dream-Work_in_Japan_someday-00F7FF?style=flat-square&labelColor=0D1117" /></td>
-<td align="center">🌐</td>
-<td><img src="https://img.shields.io/badge/Also_Build-Professional_Websites-06D6A0?style=flat-square&labelColor=0D1117" /></td>
-</tr>
-<tr>
-<td align="center">🎯</td>
-<td colspan="3"><img src="https://img.shields.io/badge/Goal-Cybersecurity_Professional_•_Ethical_Hacker-FF2E92?style=flat-square&labelColor=0D1117" /></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/🧬_Background-Ex--Biology_(PCB)_Student-FF2E92?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/🎓_Currently-BCA_%40_VSCMS_Kanpur-00F7FF?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/🐍_Self--Taught-C_%26_Python-B084F9?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/📜_Certified-ADCA--PW-FFD166?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/🔭_Roadmap-Python%20→%20DSA%20→%20Ethical%20Hacking-06D6A0?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/🤖_Building-AI_Voice_Assistant-FF6B6B?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/🇯🇵_Dream-Work_in_Japan_someday-00F7FF?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/🌐_Also_Build-Professional_Websites-06D6A0?style=flat-square&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/🎯_Goal-Cybersecurity_Professional_•_Ethical_Hacker-FF2E92?style=flat-square&labelColor=0D1117" />
+</p>
 
 <p align="center">
 💡 <i>I believe in learning by doing — build, break, fix, and get a little better with every commit.</i>
@@ -87,6 +69,11 @@
 
 <h2 align="center">📂 Featured Projects</h2>
 
+<p align="center">
+  <a href="https://aditya-codes078.github.io/bug-squash-game/">
+    <img src="https://img.shields.io/badge/🐛_Bug_Squash-Play_the_Mini_Game-FFD166?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
 <p align="center">
   <a href="https://veloriaicecreamcafe.netlify.app">
     <img src="https://img.shields.io/badge/🍨_Veloura_Ice_Cream_Café-Full--Stack_3D_Interactive_Configurator-FF2E92?style=for-the-badge&labelColor=0D1117" />
