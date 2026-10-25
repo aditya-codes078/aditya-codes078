@@ -111,7 +111,15 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img width="700" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-codes078/aditya-codes078/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya-codes078/aditya-codes078/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contribution graph" width="100%" src="https://raw.githubusercontent.com/aditya-codes078/aditya-codes078/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 </p>
 
 <h2 align="center">🎯 Skill Radar</h2>
