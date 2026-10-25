@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=90%25&lines=Aspiring+Cybersecurity+Professional+%F0%9F%94%90;Future+Ethical+Hacker+%F0%9F%92%BB;Self-Taught+Coder+%E2%9A%A1;Learning+C+%26+Python+from+Scratch+%F0%9F%90%8D;Dreaming+of+working+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&height=40&lines=Aspiring+Cybersecurity+Professional+%F0%9F%94%90;Future+Ethical+Hacker+%F0%9F%92%BB;Self-Taught+Coder+%E2%9A%A1;Learning+C+%26+Python+from+Scratch+%F0%9F%90%8D;Dreaming+of+working+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </p>
 
 <p align="center">
