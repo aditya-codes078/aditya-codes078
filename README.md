@@ -70,21 +70,31 @@
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://aditya-codes078.github.io/bug-squash-game/">
-    <img src="https://img.shields.io/badge/🐛_Bug_Squash-Play_the_Mini_Game-FFD166?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://scamsaathi.netlify.app">
+    <img src="https://img.shields.io/badge/🛡️_ScamSaathi-AI_%26_CyberTech_Project-FF2E92?style=for-the-badge&labelColor=0D1117" />
   </a>
 </p>
 <p align="center">
-  <a href="https://veloriaicecreamcafe.netlify.app">
-    <img src="https://img.shields.io/badge/🍨_Veloura_Ice_Cream_Café-Full--Stack_3D_Interactive_Configurator-FF2E92?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://velouraicecreamparlourkanpur.netlify.app/">
+    <img src="https://img.shields.io/badge/🍨_Veloura_Ice_Cream_Parlour-Full--Stack_Web_App-00F7FF?style=for-the-badge&labelColor=0D1117" />
   </a>
 </p>
 <p align="center">
   <sub>Node.js + Express backend • SQLite/Turso DB • Admin dashboard • Cart, coupons, live order tracking, KOT printing & UPI payments</sub>
 </p>
 <p align="center">
-  <a href="https://veloriaicecreamcafe.netlify.app/admin.html">
-    <img src="https://img.shields.io/badge/⚙️_Admin_Dashboard-Order_%26_Stock_Management_Panel-B084F9?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://velouraicecreamparlourkanpur.netlify.app/admin.html">
+    <img src="https://img.shields.io/badge/⚙️_Veloura_Admin-Order_%26_Stock_Management_Panel-B084F9?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://gameswithaditya.netlify.app/">
+    <img src="https://img.shields.io/badge/🎮_Games_With_Aditya-2_Player_Games-06D6A0?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://aditya-codes078.github.io/bug-squash-game/">
+    <img src="https://img.shields.io/badge/🐛_Bug_Squash-Play_the_Mini_Game-FFD166?style=for-the-badge&labelColor=0D1117" />
   </a>
 </p>
 <p align="center">
